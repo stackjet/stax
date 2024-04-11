@@ -1,0 +1,3 @@
+venv
+.github/workflows/pipeline.yaml
+.aws-sam/pipeline/pipelineconfig.toml
