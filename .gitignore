@@ -9,3 +9,6 @@ staxbot_original
 .aws-sam/pipeline/pipelineconfig.toml
 conf.py
 ngrok.sh
+*/__pycache__/*
+*/.pytest_cache/*
+*/.pytest_cache
