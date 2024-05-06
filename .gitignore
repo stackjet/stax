@@ -1,3 +1,11 @@
+# directories
 venv
+tmp
+staxbot_original
+
+
+# specific files
 .github/workflows/pipeline.yaml
 .aws-sam/pipeline/pipelineconfig.toml
+conf.py
+ngrok.sh
